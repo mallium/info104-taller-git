@@ -5,7 +5,7 @@ import { Text, Container } from "@chakra-ui/react";
 export default function Ejemplo1() {
   const nombre = "Patricio Cuevas";
   return (
-    <div className="contenedor">
+    <div className={"contenedor" + style.body}>
       <Container>
         <center>
           <Text className={style.extra}>
