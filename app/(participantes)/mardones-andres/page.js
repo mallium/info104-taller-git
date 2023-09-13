@@ -3,7 +3,7 @@
 import { Text, Container } from "@chakra-ui/react";
 
 export default function Ejemplo1() {
-  const nombre = "Andrés Mardones";
+  const nombre = "La grasa invadio este grupo";
   return (
     <div className="contenedor">
       <Container>

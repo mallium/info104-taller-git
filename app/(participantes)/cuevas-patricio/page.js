@@ -3,7 +3,7 @@ import style from "./style.module.css"
 import { Text, Container } from "@chakra-ui/react";
 
 export default function Ejemplo1() {
-  const nombre = "Patricio Cuevas";
+  const nombre = "Pato cuak cuak";
   return (
     <div className="contenedor">
       <Container className = {style.body}>
