@@ -8,7 +8,7 @@ export default function Ejemplo1() {
     <div className={"contenedor " + style.nombre2}>
       <Container>
         <center>
-          <Text fontSize="xl" color="blue.500" className="estiloNombre">
+          <Text fontSize="xl" color="red.500" className="estiloNombre">
             {nombre}
           </Text>
         </center>
