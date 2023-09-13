@@ -1,0 +1,12 @@
+.holacarlita {
+    font-size: 40px;
+    color: rgb(55, 236, 155);
+    font-family: 'Sans Comic MS', cursive;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }

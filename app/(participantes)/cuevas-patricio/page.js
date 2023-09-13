@@ -1,14 +1,14 @@
 "use client";
-
+import style from "./style.module.css"
 import { Text, Container } from "@chakra-ui/react";
 
 export default function Ejemplo1() {
-  const nombre = "La grasa invadio este grupo";
+  const nombre = "Pato cuak cuak";
   return (
     <div className="contenedor">
-      <Container>
+      <Container className = {style.body}>
         <center>
-          <Text fontSize="xl" color="blue.500" className="estiloNombre">
+          <Text className={style.extra}>
             {nombre}
           </Text>
         </center>
@@ -16,3 +16,4 @@ export default function Ejemplo1() {
     </div>
   );
 }
+
