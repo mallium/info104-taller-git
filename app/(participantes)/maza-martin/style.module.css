@@ -4,9 +4,11 @@
 }
 .nombre{
     color:rgb(255, 255, 255);
+    font-weight: bold;
 }
 .pochita{
     color: white;
     font-size: 22px;
-    width: 50vh;
+    font-weight: bold;
+    width: 90%;
 }
