@@ -1,0 +1,12 @@
+.main{
+    min-height: 100vh;
+    background-color:orange;
+}
+.nombre{
+    color:rgb(255, 255, 255);
+}
+.pochita{
+    color: white;
+    font-size: 22px;
+    width: 50vh;
+}
